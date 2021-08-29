@@ -1,0 +1,1 @@
+pandoc Notas_algebra_Abstracta.ipynb --pdf-engine=xelatex -o notas_algebra_5.pdf
